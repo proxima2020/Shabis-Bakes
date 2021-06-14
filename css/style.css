@@ -425,10 +425,10 @@ b.fa.fa-caret-right {
 /*-- banner --*/
 
 .carousel .item {
-	background: -webkit-linear-gradient(rgba(23, 22, 23, 0), rgba(23, 22, 23, 0)), url(../images/banner2.png) repeat;
-	background: -moz-linear-gradient(rgba(23, 22, 23, 0), rgba(23, 22, 23, 0)), url(../images/banner2.png) repeat;
-	background: -ms-linear-gradient(rgba(23, 22, 23, 0), rgba(23, 22, 23, 0)), url(../images/banner2.png) repeat;
-	background: linear-gradient(rgba(23, 22, 23, 0), rgba(23, 22, 23, 0)), url(../images/banner2.png) repeat;
+	background: -webkit-linear-gradient(rgba(23, 22, 23, 0), rgba(23, 22, 23, 0)), url(../images/banner5.png) repeat;
+	background: -moz-linear-gradient(rgba(23, 22, 23, 0), rgba(23, 22, 23, 0)), url(../images/banner5.png) repeat;
+	background: -ms-linear-gradient(rgba(23, 22, 23, 0), rgba(23, 22, 23, 0)), url(../images/banner5.png) repeat;
+	background: linear-gradient(rgba(23, 22, 23, 0), rgba(23, 22, 23, 0)), url(../images/banner5.png) repeat;
 }
 
 .carousel .item.item2 {
@@ -439,17 +439,17 @@ b.fa.fa-caret-right {
 }
 
 .carousel .item.item3 {
-	background: -webkit-linear-gradient(rgba(23, 22, 23, 0), rgba(23, 22, 23, 0)), url(../images/banner1.png) repeat;
-	background: -moz-linear-gradient(rgba(23, 22, 23, 0), rgba(23, 22, 23, 0)), url(../images/banner1.png) repeat;
-	background: -ms-linear-gradient(rgba(23, 22, 23, 0), rgba(23, 22, 23, 0)), url(../images/banner1.png) repeat;
-	background: linear-gradient(rgba(23, 22, 23, 0), rgba(23, 22, 23, 0)), url(../images/banner1.png) repeat;
+	background: -webkit-linear-gradient(rgba(23, 22, 23, 0), rgba(23, 22, 23, 0)), url(../images/banner5.png) repeat;
+	background: -moz-linear-gradient(rgba(23, 22, 23, 0), rgba(23, 22, 23, 0)), url(../images/banner5.png) repeat;
+	background: -ms-linear-gradient(rgba(23, 22, 23, 0), rgba(23, 22, 23, 0)), url(../images/banner5.png) repeat;
+	background: linear-gradient(rgba(23, 22, 23, 0), rgba(23, 22, 23, 0)), url(../images/banner5.png) repeat;
 }
 
 .carousel .item.item4 {
-	background: -webkit-linear-gradient(rgba(23, 22, 23, 0), rgba(23, 22, 23, 0)), url(../images/banner4.png) repeat;
-	background: -moz-linear-gradient(rgba(23, 22, 23, 0), rgba(23, 22, 23, 0)), url(../images/banner4.png) repeat;
-	background: -ms-linear-gradient(rgba(23, 22, 23, 0), rgba(23, 22, 23, 0)), url(../images/banner4.png) repeat;
-	background: linear-gradient(rgba(23, 22, 23, 0), rgba(23, 22, 23, 0)), url(../images/banner4.png) repeat;
+	background: -webkit-linear-gradient(rgba(23, 22, 23, 0), rgba(23, 22, 23, 0)), url(../images/banner5.png) repeat;
+	background: -moz-linear-gradient(rgba(23, 22, 23, 0), rgba(23, 22, 23, 0)), url(../images/banner5.png) repeat;
+	background: -ms-linear-gradient(rgba(23, 22, 23, 0), rgba(23, 22, 23, 0)), url(../images/banner5.png) repeat;
+	background: linear-gradient(rgba(23, 22, 23, 0), rgba(23, 22, 23, 0)), url(../images/banner5.png) repeat;
 }
 
 .carousel .item.item5 {
@@ -1226,7 +1226,7 @@ ul.agile_footer_grid_list li a{
 	text-decoration:none;
 }
 ul.agile_footer_grid_list li a:hover{
-	color:#fff;
+	color:rgb(53, 32, 32);
 }
 ul.agile_footer_grid_list li label{	
 	display:block;
@@ -1239,7 +1239,7 @@ ul.agile_footer_grid_list li span{
 	color:#0accff;
 }
 .w3_agile_footer_grid li {
-    color: #eee;
+    color: rgb(43, 29, 29);
     font-size: 15px;
     letter-spacing: 1px;
     margin-bottom: 5px;
@@ -1258,7 +1258,7 @@ ul.agile_footer_grid_list li span{
 }
 .w3_agile_footer_grid h3 {
     font-size: 25px;
-    color: #fff;
+    color: black;
     padding-bottom: 15px;
     margin-bottom: 15px;
     border-bottom: 1px solid rgba(251, 251, 251, 0.18);
@@ -1266,14 +1266,14 @@ ul.agile_footer_grid_list li span{
 .agileits_w3layouts_footer_grid_list li{
 	list-style-type:none;
 	margin-bottom:1em;
-	color:#999;
+	color:black;
 }
 .agileits_w3layouts_footer_grid_list li span{ 
     color: #ed1b2e;
 	padding-right:1em;
 }
 .agileits_w3layouts_footer_grid_list li a{
-	color: #fff;
+	color: black;
     text-decoration: none;
     letter-spacing: 1px;
     font-size: 14px;
@@ -1296,7 +1296,7 @@ ul.agile_footer_grid_list li span{
     outline: none;
     background: transparent;
     font-size: 1em;
-    color: #fff;
+    color: black;
     width: 72%;
     padding: 14px;
     margin-right: 1em;
@@ -1314,7 +1314,7 @@ ul.agile_footer_grid_list li span{
 }
 .w3_newsletter_footer_grid_left h5 {
     font-size: 30px;
-    color: #fff;
+    color: black;
     text-align: center;
     margin-bottom: 23px;
     letter-spacing: 1px;
@@ -1337,7 +1337,7 @@ ul.agile_footer_grid_list li span{
     font-size: 20px;
 }
 .w3ls_footer_grid_left p{
-	color:#fff;
+	color:#black;
     line-height:2em;
     float: left;
     font-size: 14px;
@@ -1347,11 +1347,11 @@ ul.agile_footer_grid_list li span{
 	display:block;
 }
 .w3ls_footer_grid_left p a{
-	color:#fff;
+	color:#black;
 	text-decoration:none;
 }
 .w3ls_footer_grid_left p a:hover{
-	color:#fff;
+	color:#black;
 }
 .w3ls_footer_grid_left{
     text-align:center;
@@ -1376,7 +1376,7 @@ ul.agile_footer_grid_list li span{
     text-align: center;
 }
 .agileinfo_copyright p{
-	color:#fff;
+	color:black;
 	line-height:2em;
     text-transform: uppercase;
     letter-spacing: 2px;
